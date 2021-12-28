@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: #E5E5E5;
+}
+
+.yoga-symbol {
+    display: block;
+    margin: 195px 170px 122px;
+}
+
+.username-input {
+    display: block;
+    margin: 0px 48px 21px 45px;
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    border-style: none;
+    padding: 10px;
+}
+
+.password-input {
+    display: block;
+    margin: 0px 48px 21px 45px;
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    border-style: none;
+    padding: 10px;
+}
+
+.forgot-password {
+    display: block;
+    margin: 35px 59px 38px 253px;
+    font-size: 13px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.login-button {
+    display: block;
+    margin: 0px 141px 21px 140px;
+    width: 133px;
+    height: 46px;
+    background-color: #323232;
+    color: #ffffff;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.signup-link {
+    display: block;
+    margin: 0px 87px 62px 87px;
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+}
+
+p {
+    font-style: bolder;
+    margin-left: 200px;
+    font-weight: 900;
+    margin-bottom: 18px;
+}
+
+.google-icon {
+    margin: 0px 16px 0px 134px;
+}
+
+.dots-icon {
+    margin-right: 16px;
+}
+
+div {
+    margin-bottom: 100px;
+}
