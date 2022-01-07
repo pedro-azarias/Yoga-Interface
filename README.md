@@ -1,2 +1,2 @@
-# Yoga-Web-Interface
+# Yoga Web Interface
  
