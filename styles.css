@@ -73,10 +73,12 @@ p {
 
 .google-icon {
     margin: 0px 16px 0px 134px;
+    cursor: pointer;
 }
 
 .dots-icon {
     margin-right: 16px;
+    cursor: pointer;
 }
 
 div {
